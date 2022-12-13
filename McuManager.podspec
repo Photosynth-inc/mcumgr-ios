@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
 
   s.requires_arc = true
 
-  s.dependency "SwiftCBOR", "0.4.3"
+  s.dependency "SwiftCBOR", "0.4.5"
 end
